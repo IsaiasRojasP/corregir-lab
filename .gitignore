@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+*.exe
+*.xls
+*.csv
+.synapse_config/
+debug_resp.txt
+instruccion.txt
+corregir_pt.txt
+Correccion_Lab.spec
+Corregir_Lab.exe
+Corregir_Lab.py
+Crear_exe.py
